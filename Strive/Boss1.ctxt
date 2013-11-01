@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Boss1()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Boss1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ bossPhase1()
+comment3.params=x\ y
+comment3.target=void\ teleport(int,\ int)
+comment4.params=player\ x\ y
+comment4.target=boolean\ shooting(Player,\ int,\ int)
+comment5.params=
+comment5.target=void\ checkDeath()
+numComments=6
